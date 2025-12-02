@@ -1,0 +1,77 @@
+/* Change active accordion background */
+.accordion-button:not(.collapsed) {
+  background-color: #ed7235 !important;
+  color: #fff !important;
+}
+
+/* Optional: change border color */
+.accordion-button:focus {
+  box-shadow: none !important;
+  border-color: #ed7235 !important;
+}
+
+.accordion-button{
+    border-radius: 10px !important;
+}
+
+/* Change arrow color when open */
+.accordion-button:not(.collapsed)::after {
+  filter: invert(1) brightness(2); /* makes the arrow white */
+}
+
+/* Keep background custom color */
+.accordion-button:not(.collapsed) {
+  background-color: #ed7235 !important;
+  color: #fff !important;
+}
+
+
+
+
+
+/* Blog response */
+.blog-main-heading {
+  font-size: clamp(28px, 5vw, 50px);
+  font-weight: bold;
+}
+
+.blog-main-heading-para {
+  font-size: clamp(16px, 2.5vw, 20px);
+  color: #8c8c8c;
+  margin-top: 20px;
+}
+
+.blog-para-main-heading {
+  font-size: clamp(22px, 3vw, 30px);
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.blog-para-sub-heading {
+  font-size: clamp(16px, 2.5vw, 20px);
+  color: #8c8c8c;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.blog-para {
+  font-size: clamp(15px, 2vw, 18px);
+  color: #8c8c8c;
+  margin-top: 20px;
+  text-align: justify;
+  line-height: 1.6; 
+}
+
+
+
+.seo-link {
+  color: #ed7235;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+
+.dot-point{
+  color: #ed7235;
+  margin-right: 10px;
+}

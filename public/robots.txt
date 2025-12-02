@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# Sitemap for search engines & AI crawlers
+Sitemap: https://yogaproperty.com/sitemap.xml
+
+# Allow OpenAI GPTBot
+User-agent: GPTBot
+Allow: /
+
+# Allow Perplexity Bot
+User-agent: PerplexityBot
+Allow: /
+
+# Allow Google Bard / Gemini
+User-agent: Google-Extended
+Allow: /
