@@ -38,7 +38,7 @@ trusted real estate company."
                     As the emphasis on health and well-being continues to grow, the demand for wellness
                     homes—properties designed to promote physical, mental, and emotional health—is on the rise.
                     In Coimbatore, a city known for its serene environment and lush greenery,&nbsp;
-                    <Link to="/blogs/real-estate-brokers-in-coimbatore-wellness-homes" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         real estate agents in Coimbatore &nbsp;
                     </Link>
                     play a vital role in helping homeowners discover peaceful and sustainable spaces.

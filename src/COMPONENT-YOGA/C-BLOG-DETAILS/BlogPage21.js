@@ -37,7 +37,7 @@ Yoga Property"
                 </h1>
                 <h6 className="blog-main-heading-para">
                     Finding budget-friendly homes in a &nbsp;
-                    <Link to="/blogs/affordable-real-estate-developers-coimbatore-amenities" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         real estate company in coimbatore &nbsp;
                     </Link>
                     is easier than ever,

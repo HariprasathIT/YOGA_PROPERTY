@@ -72,7 +72,7 @@ homes boost property value, energy savings, and ROI for investors."
             Market reports show this combo is exploding, with billions poured
             in yearly. Let’s dig into the basics so you see why it’s a game
             changer for &nbsp;
-            <Link to="/blogs/smart-homes-ai-iot-real-estate-investments" className="seo-link">
+            <Link to="https://yogaproperty.com/" className="seo-link">
               real estate company in coimbatore &nbsp;
             </Link>
           </p>

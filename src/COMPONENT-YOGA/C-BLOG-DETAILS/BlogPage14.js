@@ -95,7 +95,7 @@ homes for a healthy and peaceful lifestyle."
                         When it comes to real estate companies in Coimbatore, reputation is everything. Look for
                         developers with a proven record of quality, timely delivery, and customer satisfaction. These are
                         the &nbsp;
-                        <Link to="/blogs/best-real-estate-developers-in-coimbatore-for-wellness" className="seo-link">
+                        <Link to="https://yogaproperty.com/" className="seo-link">
                             top real estate company in Coimbatore &nbsp;
                         </Link>
                         that have earned the trust of their clients by consistently delivering excellence and value.
@@ -126,7 +126,7 @@ homes for a healthy and peaceful lifestyle."
                     </h4>
                     <p className="blog-para">
                         Coimbatore is home to some of the &nbsp;
-                        <Link to="/blogs/best-real-estate-developers-in-coimbatore-for-wellness" className="seo-link">
+                        <Link to="https://yogaproperty.com/" className="seo-link">
                             best real estate brokers in Coimbatore &nbsp;
                         </Link>
                         and developers who focus on wellness-oriented living. From luxurious villas to eco-friendly apartments, these projects offer a peaceful escape from urban chaos while keeping you connected to city conveniences.

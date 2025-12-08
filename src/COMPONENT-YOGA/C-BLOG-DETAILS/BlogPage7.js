@@ -37,7 +37,7 @@ estate. Learn how smart homes boost value, ROI, and secure investments."
         <h6 className="blog-main-heading-para">
           Tech like AI and IoT in real estate turns houses into smart hubs
           that boost value. Add fractional ownership real estate models and &nbsp;
-          <Link to="/blogs/smart-homes-ai-iot-blockchain-fractional-real-estate" className="seo-link">
+          <Link to="https://yogaproperty.com/" className="seo-link">
             property in coimbatore &nbsp;
           </Link>
           tokenization, and investing opens to
@@ -65,7 +65,7 @@ estate. Learn how smart homes boost value, ROI, and secure investments."
 
           <p className="blog-para">
             Smart homes are booming. AI in real estate and IoT in  &nbsp;
-            <Link to="/blogs/smart-homes-ai-iot-blockchain-fractional-real-estate" className="seo-link">
+            <Link to="https://yogaproperty.com/" className="seo-link">
               real estate companies in Coimbatore, &nbsp;
             </Link>
             make them tick, changing how we live and

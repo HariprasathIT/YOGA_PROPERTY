@@ -38,7 +38,7 @@ agents, verified listings, top locations, and expert support for homebuyers and 
                     few years. With Coimbatore’s peaceful environment, excellent connectivity, thriving IT sector,
                     and top educational institutions, more families, professionals, and investors are choosing this
                     city for long-term living and investment. As one of the  &nbsp;
-                    <Link to="/blogs/apartments-for-sale-in-coimbatore" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         best real estate companies in Coimbatore, &nbsp;
                     </Link>
                     Yoga Property helps you find premium, well-built, and affordable apartments that
@@ -48,7 +48,7 @@ agents, verified listings, top locations, and expert support for homebuyers and 
                     Whether you are a first-time homebuyer, an NRI investor, or someone upgrading to a modern
                     lifestyle, Coimbatore offers a variety of options—from budget-friendly flats to luxury apartments
                     with premium amenities. With the support of trusted  &nbsp;
-                    <Link to="/blogs/apartments-for-sale-in-coimbatore" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         real estate companies in Coimbatore, &nbsp;
                     </Link>
                     and professional guidance from Yoga Property, the entire home-buying process becomes smooth,

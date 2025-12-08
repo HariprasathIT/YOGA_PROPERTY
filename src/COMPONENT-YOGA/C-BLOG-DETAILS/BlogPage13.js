@@ -36,7 +36,7 @@ build smart, efficient, and durable homes with expert guidance."
                 <h6 className="blog-main-heading-para">
                     Building your dream home is an exciting milestone, but without proper planning, it can quickly
                     become overwhelming. Whether you’re a first-time homeowner or working with experienced  &nbsp;
-                    <Link to="/blogs/top-mistakes-to-avoid-during-home-construction-coimbatore" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         Yoga Property real estate builders in Coimbatore, &nbsp;
                     </Link>
                     being aware of common home

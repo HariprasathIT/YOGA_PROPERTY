@@ -37,7 +37,7 @@ records, smart contracts, and fractional ownership with real-world examples."
         <h6 className="blog-main-heading-para">
           Imagine buying a house without piles of forms, endless checks, or
           delays that stretch for months. Blockchain in  &nbsp;
-          <Link to="/blogs/blockchain-property-transactions-land-records" className="seo-link">
+          <Link to="https://yogaproperty.com/" className="seo-link">
             real estate Company in coimbatore &nbsp;
           </Link>
           is turning that dream into reality. Traditional property

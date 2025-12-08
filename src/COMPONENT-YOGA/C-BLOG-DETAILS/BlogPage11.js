@@ -61,7 +61,7 @@ smart designs, budget planning, and cost-effective building solutions."
 
                     <p className="blog-para">
                         Before starting your  &nbsp;
-                        <Link to="/blogs/Affordable-construction-solutions-dream-villa-coimbatore" className="seo-link">
+                        <Link to="https://yogaproperty.com/" className="seo-link">
                             Real Estate Broker in Coimbatore &nbsp;
                         </Link>
                         villa construction, it’s vital to establish a

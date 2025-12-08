@@ -37,7 +37,7 @@ records, smart contracts, and fractional ownership with real-world examples."
                     As environmental awareness grows, the demand for eco-friendly construction in Coimbatore
                     and beyond is rapidly increasing. Modern homebuyers are looking for homes that combine
                     comfort, luxury, and sustainability. Leading  &nbsp;
-                    <Link to="/blogs/eco-friendly-construction-ideas-modern-living-coimbatore" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         real estate builders in Coimbatore, &nbsp;
                     </Link>
                     such as Yoga

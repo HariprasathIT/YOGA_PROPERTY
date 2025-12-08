@@ -30,6 +30,9 @@ import BlogPage19 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage19";
 import BlogPage20 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage20";
 import BlogPage21 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage21";
 import BlogPage22 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage22";
+import BlogPage23 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage23";
+import BlogPage24 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage24";
+import BlogPage25 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage25";
 
 
 function App() {
@@ -73,6 +76,9 @@ function App() {
             <Route path="/blogs/find-trusted-real-estate-agents-in-coimbatore" element={<BlogPage20 />} />
             <Route path="/blogs/affordable-real-estate-developers-coimbatore-amenities" element={<BlogPage21 />} />
             <Route path="/blogs/top-rated-property-management-services-coimbatore" element={<BlogPage22 />} />
+            <Route path="/blogs/luxury-real-estate-firms-coimbatore-premium-apartments" element={<BlogPage23 />} />
+            <Route path="/blogs/real-estate-investment-consultant-coimbatore" element={<BlogPage24 />} />
+            <Route path="/blogs/how-to-contact-real-estate-firms-in-coimbatore-for-site-visits" element={<BlogPage25 />} />
           </Routes>
 
           <Footer />

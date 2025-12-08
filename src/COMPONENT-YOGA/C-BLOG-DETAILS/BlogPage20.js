@@ -74,7 +74,7 @@ find property needs."
                     </h4>
                     <p className="blog-para">
                         One of the best ways to find a trustworthy  &nbsp;
-                        <Link to="/blogs/find-trusted-real-estate-agents-in-coimbatore" className="seo-link">
+                        <Link to="https://yogaproperty.com/" className="seo-link">
                             real estate company in coimbatore &nbsp;
                         </Link>
                         is through

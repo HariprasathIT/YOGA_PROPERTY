@@ -59,7 +59,7 @@ estate services for modern, sustainable, and peaceful living."
                     </h4>
                     <p className="blog-para">
                         A major trend shaping  &nbsp;
-                        <Link to="/blogs/real-estate-trends-in-saravanampatti-coimbatore" className="seo-link">
+                        <Link to="https://yogaproperty.com/" className="seo-link">
                             real estate agencies in Coimbatore &nbsp;
                         </Link>
                         is the rise of gated communities in

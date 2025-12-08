@@ -42,7 +42,7 @@ land to construction, we create spaces of quality and comfort."
                 </h6>
                 <h6 className="blog-main-heading-para">
                     As one of the  &nbsp;
-                    <Link to="/blogs/from-land-to-home-complete-guide-building-with-yoga-property" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         top real estate builders in Coimbatore, &nbsp;
                     </Link>
                     Yoga Property has earned a reputation

@@ -2349,6 +2349,24 @@ const Blogs = () => {
       image: '/IMAGE/blog-22.jpg',
       title: 'Top-Rated Property Management Services in Coimbatore',
       link: '/blogs/top-rated-property-management-services-coimbatore'
+    },
+    {
+      id: 23,
+      image: '/IMAGE/blog-23.jpg',
+      title: 'Luxury Living: Top Real Estate Firms in Coimbatore',
+      link: '/blogs/luxury-real-estate-firms-coimbatore-premium-apartments'
+    },
+    {
+      id: 24,
+      image: '/IMAGE/blog-24.jpg',
+      title: 'Real Estate Consultants in Coimbatore for Investment Help',
+      link: '/blogs/real-estate-investment-consultant-coimbatore'
+    },
+    {
+      id: 25,
+      image: '/IMAGE/blog-25.jpg',
+      title: 'How to Contact Real Estate Firms in Coimbatore for Site Visits',
+      link: '/blogs/how-to-contact-real-estate-firms-in-coimbatore-for-site-visits'
     }
   ];
 

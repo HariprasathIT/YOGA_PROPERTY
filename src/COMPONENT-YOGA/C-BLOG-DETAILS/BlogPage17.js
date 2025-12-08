@@ -37,7 +37,7 @@ quality building, and high appreciation value."
                 <h6 className="blog-main-heading-para">
                     Finding the right place to build your dream home is a meaningful decision, and &nbsp;
 
-                    <Link to="/blogs/sri-selvanayaki-avenue-plots-and-customized-houses-for-sale-title" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         Best Real estate  company in coimbatore &nbsp;
                     </Link>
 

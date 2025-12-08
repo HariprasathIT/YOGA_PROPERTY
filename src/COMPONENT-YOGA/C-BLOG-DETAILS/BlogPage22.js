@@ -35,7 +35,7 @@ maintenance, and tenant handling. Yoga Property connects you with trusted profes
                 </h1>
                 <h6 className="blog-main-heading-para">
                     Top-rated property management services in &nbsp;
-                    <Link to="/blogs/top-rated-property-management-services-coimbatore" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         real estate company in coimbatore &nbsp;
                     </Link>
                     handle everything from tenant screening and rent collection to property maintenance

@@ -96,7 +96,7 @@ safety, and long-term value for homebuyers."
                         Coimbatore is one of India’s fastest-growing tier-2 cities, attracting families, IT professionals,
                         NRIs, and investors. With top educational institutions, industries, hospitals, and a peaceful
                         lifestyle, many  &nbsp;
-                        <Link to="/blogs/investing-in-coimbatore-dtcp-approved-plots" className="seo-link">
+                        <Link to="https://yogaproperty.com/" className="seo-link">
                             real estate company in Coimbatore &nbsp;
                         </Link>
                         describe the city as “future-ready.”
@@ -294,7 +294,7 @@ safety, and long-term value for homebuyers."
                     </p>
                     <p className="blog-para">
                         This is why even the best  &nbsp;
-                        <Link to="/blogs/investing-in-coimbatore-dtcp-approved-plots" className="seo-link">
+                        <Link to="https://yogaproperty.com/" className="seo-link">
                             real estate company in Coimbatore &nbsp;
                         </Link>
                         and leading brokers repeatedly

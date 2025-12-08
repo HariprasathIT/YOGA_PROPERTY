@@ -38,7 +38,7 @@ best location for long-term living and value."
                     Finding your dream home is an exciting journey, but it begins long before you select paint colors
                     or furniture. The location you choose plays a crucial role in shaping your lifestyle, comfort, and
                     future investment. To help you make the best decision, here are key factors shared by &nbsp;
-                    <Link to="/blogs/choose-perfect-location-for-your-dream-home-in-coimbatore" className="seo-link">
+                    <Link to="https://yogaproperty.com/" className="seo-link">
                         top real estate companies in Coimbatore. &nbsp;
                     </Link>
                     
