@@ -2367,6 +2367,24 @@ const Blogs = () => {
       image: '/IMAGE/blog-25.jpg',
       title: 'How to Contact Real Estate Firms in Coimbatore for Site Visits',
       link: '/blogs/how-to-contact-real-estate-firms-in-coimbatore-for-site-visits'
+    },
+    {
+      id: 26,
+      image: '/IMAGE/blog-26.jpg',
+      title: 'Quick Property Deals in Coimbatore | YogaProperty',
+      link: '/blogs/quick-property-deals-coimbatore-real-estate-agents'
+    },
+    {
+      id: 27,
+      image: '/IMAGE/blog-27.jpg',
+      title: 'How to Choose the Right Real Estate Company in Coimbatore',
+      link: '/blogs/choose-right-real-estate-company-coimbatore'
+    },
+    {
+      id: 28,
+      image: '/IMAGE/blog-28.jpg',
+      title: 'Best Real Estate Companies in Coimbatore for Industrial Land',
+      link: '/blogs/best-real-estate-companies-coimbatore-industrial-land'
     }
   ];
 

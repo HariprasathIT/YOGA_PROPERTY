@@ -7,6 +7,7 @@ const BlogPage25 = () => {
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
+    
 
 
     return (
@@ -26,7 +27,6 @@ visits. Get tips on scheduling appointments, verifying properties, and connectin
 trusted agents."
                 />
             </Helmet>
-
 
             <section
                 className="blog-details container"

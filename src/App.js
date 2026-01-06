@@ -33,6 +33,9 @@ import BlogPage22 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage22";
 import BlogPage23 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage23";
 import BlogPage24 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage24";
 import BlogPage25 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage25";
+import BlogPage26 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage26";
+import BlogPage27 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage27";
+import BlogPage28 from "./COMPONENT-YOGA/C-BLOG-DETAILS/BlogPage28";
 
 
 function App() {
@@ -42,6 +45,7 @@ function App() {
     const timer = setTimeout(() => setLoading(false), 2000);
     return () => clearTimeout(timer);
   }, []);
+
 
   if (loading) return <LoadingScreen />;
 
@@ -79,6 +83,9 @@ function App() {
             <Route path="/blogs/luxury-real-estate-firms-coimbatore-premium-apartments" element={<BlogPage23 />} />
             <Route path="/blogs/real-estate-investment-consultant-coimbatore" element={<BlogPage24 />} />
             <Route path="/blogs/how-to-contact-real-estate-firms-in-coimbatore-for-site-visits" element={<BlogPage25 />} />
+            <Route path="/blogs/quick-property-deals-coimbatore-real-estate-agents" element={<BlogPage26 />} />
+            <Route path="/blogs/choose-right-real-estate-company-coimbatore" element={<BlogPage27 />} />
+            <Route path="/blogs/best-real-estate-companies-coimbatore-industrial-land" element={<BlogPage28 />} />
           </Routes>
 
           <Footer />
